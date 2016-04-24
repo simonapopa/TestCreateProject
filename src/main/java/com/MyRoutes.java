@@ -11,10 +11,6 @@ import org.apache.camel.cdi.Uri;
  * Configures all our Camel routes, components, endpoints and beans
  * 23.04.2016
  */
-/**
- * Configures all our Camel routes, components, endpoints and beans
- * 23.04.2016
- */
 public class MyRoutes extends RouteBuilder {
 
     @Inject
